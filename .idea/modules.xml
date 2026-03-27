@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/week04/Salary01/Salary01.iml" filepath="$PROJECT_DIR$/week04/Salary01/Salary01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/Salary02/Salary02.iml" filepath="$PROJECT_DIR$/week04/Salary02/Salary02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/Salary03/Salary03.iml" filepath="$PROJECT_DIR$/week04/Salary03/Salary03.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/Sample03-1/Sample03-1.iml" filepath="$PROJECT_DIR$/week03/Sample03-1/Sample03-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/Sample03-2/Sample03-2.iml" filepath="$PROJECT_DIR$/week03/Sample03-2/Sample03-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/Sample03-3/Sample03-3.iml" filepath="$PROJECT_DIR$/week03/Sample03-3/Sample03-3.iml" />
@@ -10,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/week03/Sample03-6/Sample03-6.iml" filepath="$PROJECT_DIR$/week03/Sample03-6/Sample03-6.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/Sample03-7/Sample03-7.iml" filepath="$PROJECT_DIR$/week03/Sample03-7/Sample03-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.b.iml" filepath="$PROJECT_DIR$/.idea/java.b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/salary02-1/salary02-1.iml" filepath="$PROJECT_DIR$/week04/salary02-1/salary02-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/sample01.iml/sample01.iml.iml" filepath="$PROJECT_DIR$/week02/sample01.iml/sample01.iml.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/sample02.iml/sample02.iml.iml" filepath="$PROJECT_DIR$/week02/sample02.iml/sample02.iml.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/sample03.iml/sample03.iml.iml" filepath="$PROJECT_DIR$/week02/sample03.iml/sample03.iml.iml" />
@@ -20,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/week02/sample08/sample08.iml" filepath="$PROJECT_DIR$/week02/sample08/sample08.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/week04.iml" filepath="$PROJECT_DIR$/week04/week04.iml" />
     </modules>
   </component>
 </project>
