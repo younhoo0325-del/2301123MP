@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/week14/Barcode01/Barcode01.iml" filepath="$PROJECT_DIR$/week14/Barcode01/Barcode01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week14/Barcode02/Barcode02.iml" filepath="$PROJECT_DIR$/week14/Barcode02/Barcode02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week07/ClassRoom01/ClassRoom01.iml" filepath="$PROJECT_DIR$/week07/ClassRoom01/ClassRoom01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week12/Execl01/Execl01.iml" filepath="$PROJECT_DIR$/week12/Execl01/Execl01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week13/PDF01/PDF01.iml" filepath="$PROJECT_DIR$/week13/PDF01/PDF01.iml" />
@@ -9,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/week06/Phone02/Phone02.iml" filepath="$PROJECT_DIR$/week06/Phone02/Phone02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week11/Power01/Power01.iml" filepath="$PROJECT_DIR$/week11/Power01/Power01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week11/Power02/Power02.iml" filepath="$PROJECT_DIR$/week11/Power02/Power02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week14/QRcode01/QRcode01.iml" filepath="$PROJECT_DIR$/week14/QRcode01/QRcode01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week14/QRcode02/QRcode02.iml" filepath="$PROJECT_DIR$/week14/QRcode02/QRcode02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week04/Salary01/Salary01.iml" filepath="$PROJECT_DIR$/week04/Salary01/Salary01.iml" />
       <module fileurl="file://$PROJECT_DIR$/week04/Salary02/Salary02.iml" filepath="$PROJECT_DIR$/week04/Salary02/Salary02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week04/Salary03/Salary03.iml" filepath="$PROJECT_DIR$/week04/Salary03/Salary03.iml" />
@@ -23,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/week05/Water02/Water02.iml" filepath="$PROJECT_DIR$/week05/Water02/Water02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week05/Water03/Water03.iml" filepath="$PROJECT_DIR$/week05/Water03/Water03.iml" />
       <module fileurl="file://$PROJECT_DIR$/week05/Water04/Water04.iml" filepath="$PROJECT_DIR$/week05/Water04/Water04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week14/iText01/iText01.iml" filepath="$PROJECT_DIR$/week14/iText01/iText01.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.b.iml" filepath="$PROJECT_DIR$/.idea/java.b.iml" />
       <module fileurl="file://$PROJECT_DIR$/week04/salary02-1/salary02-1.iml" filepath="$PROJECT_DIR$/week04/salary02-1/salary02-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/week02/sample01.iml/sample01.iml.iml" filepath="$PROJECT_DIR$/week02/sample01.iml/sample01.iml.iml" />
@@ -42,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/week11/week11.iml" filepath="$PROJECT_DIR$/week11/week11.iml" />
       <module fileurl="file://$PROJECT_DIR$/week12/week12.iml" filepath="$PROJECT_DIR$/week12/week12.iml" />
       <module fileurl="file://$PROJECT_DIR$/week13/week13.iml" filepath="$PROJECT_DIR$/week13/week13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week14/week14.iml" filepath="$PROJECT_DIR$/week14/week14.iml" />
       <module fileurl="file://$PROJECT_DIR$/week9/week9.iml" filepath="$PROJECT_DIR$/week9/week9.iml" />
     </modules>
   </component>
